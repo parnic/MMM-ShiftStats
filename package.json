@@ -1,0 +1,12 @@
+{
+  "name": "magic-mirror-module-shiftstate",
+  "version": "1.0.0",
+  "description": "Show data from DigitalShift sites",
+  "main": "MMM-ShiftStats.js",
+  "author": "Chris Pickett",
+  "repository": "https://github.com/parnic/MMM-ShiftStats.git",
+  "license": "MIT",
+  "dependencies": {
+    "node-shiftstats": "^1.0.0"
+  }
+}
