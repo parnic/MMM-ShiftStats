@@ -7,7 +7,6 @@ module.exports = NodeHelper.create({
 	},
 
 	doUpdate: async function() {
-		console.log("doupdate")
 		if (!this.config) {
 			return
 		}
